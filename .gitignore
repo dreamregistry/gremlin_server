@@ -1,0 +1,6 @@
+.envrc
+.terraform
+terraform.tfstate*
+.terraform.*
+/.idea
+/data/*.kryo
